@@ -1,4 +1,4 @@
 NMA-website
 ===========
 
-Repo to revamp NMA's website
+We will be optimizing the NMA's webite
